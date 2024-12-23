@@ -74,5 +74,6 @@
   <modules>
   	<module>springboot-test-service01</module>
   	<module>springboot-test-service02</module>
+  	<module>springboot-test-service03</module>
   </modules>
 </project>
