@@ -1,0 +1,3 @@
+com\example\testservice\Runner.class
+com\example\testservice\controller\HelloController.class
+com\example\testservice\service\NameService.class
