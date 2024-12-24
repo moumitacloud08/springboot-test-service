@@ -5,7 +5,6 @@
     <artifactId>springboot-test-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>springboot-test-service03</groupId>
   <artifactId>springboot-test-service03</artifactId>
   <name>springboot-test-service03</name>
 </project>
